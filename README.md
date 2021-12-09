@@ -12,3 +12,5 @@ This document is hosted on [GitHub-pages](https://marcocosta1618.github.io/D3-ch
 ![SASS](https://img.shields.io/badge/SASS-cc6699.svg?&logo=sass&logoColor=white)&nbsp;
 
 ---
+
+![d3-choroplethMap](https://user-images.githubusercontent.com/78434326/145433193-c9c60809-5864-4940-91e8-a7133323a4be.png)
